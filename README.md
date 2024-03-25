@@ -14,7 +14,7 @@ This is a Flutter application that replicates some of the features and UI elemen
 
 ## App Preview
 
-![App Preview](Instagram Clone.jpg)
+![App Preview](InstagramClone.jpg)
 
 ## Getting Started
 
