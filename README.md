@@ -10,8 +10,6 @@ This is a Flutter application that replicates some of the features and UI elemen
 - Activity: View notifications and activity on your posts.
 - Profile: View and edit your profile information and posts.
 
-## Screenshots
-
 ## App Preview
 
 ![App Preview](InstagramClone.jpg)
